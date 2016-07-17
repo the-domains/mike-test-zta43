@@ -1,0 +1,14 @@
+layout_spectrum: 0.17289654701016843
+typography_spectrum: 0.2566956728696823
+color:
+  brandStrength: 0.04836020851507783
+  lightness: 0.9131197545211762
+  saturation: 0.5029766946099699
+  rhythmicContrast: 0.8988337107002735
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: mike test
